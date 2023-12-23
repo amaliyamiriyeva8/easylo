@@ -1,0 +1,26 @@
+{
+  "easylo": [
+    {
+      "id": 1,
+      "image": "./easylo/imgs/services1.svg",
+      "name": "Home Loan",
+      "description_1": "What are my options and the cost to exercise?",
+      "description_2": "Tools such as a profit and tax calculator show the value of your stock options and exercise cost."
+    },
+    {
+      "id": 2,
+      "image": "./easylo/imgs/services2.svg",
+      "name": "Car Loan",
+      "description_1": "Should I exercise now or later? How can I afford it?",
+      "description_2": "Tools such as a profit and tax calculator show the value of your stock options and exercise cost."
+    },
+    {
+      "id": 3,
+      "image": "./easylo/imgs/services3.svg",
+      "name": "Business Loan",
+      "description_1": "Can I get liquidity now without selling?",
+      "description_2": "Tools such as a profit and tax calculator show the value of your stock options and exercise cost."
+    }
+  ],
+  "favorites": []
+}
