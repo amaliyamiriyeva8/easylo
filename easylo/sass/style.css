@@ -20,6 +20,7 @@ nav {
   left: 0;
   width: 100%;
   padding: 13px 0px;
+  z-index: 1000;
 }
 nav .list-item {
   position: absolute;
@@ -81,6 +82,7 @@ nav .navbar ul li {
   font-size: 16px;
 }
 nav .navbar ul li button {
+  cursor: pointer;
   width: 180px;
   padding: 20px 0px;
   background-color: #10C98F;
@@ -455,6 +457,7 @@ main .js .js-1 button:hover {
   display: flex;
   flex-direction: column;
   gap: 10px;
+  z-index: 999;
 }
 .section3 .photo .img .img1 .green h1 {
   color: white;
